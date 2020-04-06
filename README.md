@@ -4,7 +4,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 ## University (Paid)
 - [Central Washington University (CWU)](http://www.cwu.edu/accessibility-studies/)
   Program dedicated to increasing awareness for accessibility issues
-- [Georgia Institute of Technology: Information and Communication Technology (ICT) Accessibility **Verified Certificate**](https://www.edx.org/course/information-communication-technology-ict-gtx-ict100x) 
+- [Georgia Institute of Technology: Information and Communication Technology (ICT) Accessibility **Verified Certificate**](https://www.edx.org/course/information-communication-technology-ict-gtx-ict100x)
 - [Media Access Australia (W3C Member): **Professional Certificate** in Web Accessibility](https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/)
 - [Mohawk College: **Ontario College Graduate Certificate** in Accessible Media Production](https://www.mohawkcollege.ca/programs/graduate-studies/accessible-media-production-390)
 - [University of Illinois DRES IT Accessibility Badging Program](http://disability.illinois.edu/academic-support/accessible-it-group/badging)
@@ -23,8 +23,9 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Level Access (previously SSB Bart Group) - Access University](https://www.levelaccess.com/products/access-university/)
 - [Online Learning Consortium (OLC) Institute for Professional Development Accessibility Track](https://onlinelearningconsortium.org/learn/olc-new-institute-schedule/#track-Accessibility)
 - [Pacellio Group - TPG Tutor](https://www.paciellogroup.com/products/tpg-tutor/)
-- [Pluralsight - Making a Web Form Accessible](https://www.pluralsight.com/courses/web-form-accessible)  
-- [Pluralsight - Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.0)](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines) 
+- [Pluralsight - Making a Web Form Accessible](https://www.pluralsight.com/courses/web-form-accessible)
+- [Pluralsight - Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.0)](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines)
+- [Pluralsight - Introduction to Developing Custom Components with ARIA](https://www.pluralsight.com/courses/introduction-developing-custom-components-aria)
 - [Siteimprove Academy](https://siteimprove.com/en-ca/services/e-learning-courses/)
 - [Styles in MS Word: A Primer for Accessible Document Design, the Course!](http://www.karlencommunications.com/StylesInWordCourse.html)
 - [Team Treehouse - Web Accessibility Compliance](https://teamtreehouse.com/library/web-accessibility-compliance)
@@ -63,7 +64,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Microsoft's Training teachers to author accessible content ](https://education.microsoft.com/courses-and-resources/courses/training-teachers-to-author-accessible-content)
 - [Professional Web #A11y Auditing Made Easy](https://de.ryerson.ca/wa/)
 - [Start Building Accessible Web Applications Today, by Marcy Sutton](https://egghead.io/courses/start-building-accessible-web-applications-today)
-- [Ryerson University: Introduction to Web Accessibility](https://de.ryerson.ca/wa/introduction/) - Start date TBD 
+- [Ryerson University: Introduction to Web Accessibility](https://de.ryerson.ca/wa/introduction/) - Start date TBD
 - [Teach Access](http://teachaccess.org/) Study Away Silicon Valley - In partnership with [PEAT](https://www.peatworks.org/)
 - [Teach Access Tutorial](https://teachaccess.github.io/tutorial/)
 - [OpenU UK Accessibility of eLearning](https://www.open.edu/openlearn/education-development/education-careers/accessibility-elearning/content-section-0?active-tab=content-tab)
@@ -78,7 +79,7 @@ Study Away Silicon Valley - http://teachaccess.org/studyaway/
 - [UNICEF Agora Training on Web Accessibility](https://agora.unicef.org/local/search/index.php?resetsession=1&search=accessibility)
 - [edX & W3C - Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 
-## Webinars  
+## Webinars
 - [3playmedia](http://www.3playmedia.com/resources/webinars/)
 - [Accessibility Association](http://www.accessibilityassociation.org/content.asp?contentid=161)
 - [Accessibility Talks (A11Y Talks)](https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw/about) - Virtual meetup and video series
@@ -97,9 +98,9 @@ Study Away Silicon Valley - http://teachaccess.org/studyaway/
 Also refer to the [AccessMeetups Twitter list](https://twitter.com/webaxe/lists/accessmeetups) by Web Axe and this [other meetup list](http://www.lireo.com/accessibility-inclusive-design-in-person-groups/) by Deborah Edwards-Onoro.
 
 - [Accessibility DC](https://www.meetup.com/Accessibility-DC/)
-- [Boston Accessibility](https://www.meetup.com/a11yBos/) 
+- [Boston Accessibility](https://www.meetup.com/a11yBos/)
 - [Buffalo Accessibility Meet-up (Buffa11y)](http://buffa11y.org)
-- [Chicago Digital Accessibility and Inclusive Design](https://www.meetup.com/a11ychi/) 
+- [Chicago Digital Accessibility and Inclusive Design](https://www.meetup.com/a11ychi/)
 - [London Accessibility Meetup](https://www.meetup.com/London-Accessibility-Meetup/)
 - [Montreal's web accessibility & inclusive design meet-up](https://www.meetup.com/a11ymtl/)
 - [Mid-MO Web Accessibility Meetup](https://www.facebook.com/groups/1981893992043062/)
