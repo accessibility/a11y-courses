@@ -121,7 +121,7 @@ Also refer to the [AccessMeetups Twitter list](https://twitter.com/webaxe/lists/
 
 ## Certificates
 - [International Association of Accessibility Professionals (IAAP) Certification](http://www.accessibilityassociation.org/certification)
-- [Media Access Australia (W3C Member): Professional Certificate in Web Accessibility](https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/)
+- [Centre for Inclusive Design (W3C Member): Professional Certificate in Web Accessibility](https://centreforinclusivedesign.org.au/index.php/pcwa/)
 - [Mohawk College: Ontario College Graduate Certificate in Accessible Media Production](https://www.mohawkcollege.ca/programs/graduate-studies/accessible-media-production-390)
 
 
