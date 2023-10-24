@@ -52,6 +52,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility. A
 - [Knowbility's AccessU](https://www.knowbility.org/education/accessu/)
 - [Web4All](http://w4a.info)
 - [ZeroCon](https://conference.zeroproject.org/)
+- [AxeCon] (https://www.deque.com/axe-con/)
 
 
 ## Free
