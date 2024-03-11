@@ -30,7 +30,8 @@ Courses, webinars, educational videos, and more, offered in web accessibility. A
 - [UX Foundations: Accessibility](https://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html)
 - [WebAIM's Web Accessibility Training](http://webaim.org/training/)
 - [LinkedIN Learning: Accessibility for Web Design with Derek Featherstone](https://www.linkedin.com/learning/accessibility-for-web-design/welcome) - Free with a LinkedIn Learning membership.
-- [A11y Collective](https://a11y-collective.com/) - a new e-learning platform for people who want to dive deep into digital accessibility. 
+- [A11y Collective](https://a11y-collective.com/) - a new e-learning platform for people who want to dive deep into digital accessibility.
+- [A11y Labs](https://a11ylabs.com/) - Zenyth e-learning training platform empowering your journey towards web accessibility excellence.
 
 
 ## Conferences & Events
