@@ -40,6 +40,11 @@ Courses, webinars, educational videos, and more, offered in web accessibility. A
 - [Accessing Higher Ground](http://accessinghigherground.org)
 - [Accessible by Design](https://accessiblebydesign.org)
 - [ASSETS: ACM SIGACCESS Conference on Computers and Accessibility](https://assets19.sigaccess.org/)
+- [axe-con](https://www.deque.com/axe-con/)
+   - [2024 session recordings](https://www.deque.com/axe-con/schedule/) - Free in exchange for email address
+   - [2023 session recordings](https://www.deque.com/axe-con/archives/) - Free in exchange for email address
+   - [2022 playlist](https://www.youtube.com/watch?v=F8k46az8lbs&list=PLdhQLgcmuKTsHY97JYtMGbjca-M_tT8Pl)
+   - [2021 playlist](https://www.youtube.com/watch?v=clFvPTCblrM&list=PLdhQLgcmuKTu2JAR9fvgFlDg7bKl3lCvn)
 - [CSUN Assistive Technology Conference](http://www.csun.edu/cod/conference)
 - [Environments for Humans' Accessibility Summit](http://environmentsforhumans.com/2017/accessu-summit/)
 - [Inclusive Design 24 (#ID24)](http://www.inclusivedesign24.org/):
@@ -75,7 +80,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility. A
 - [University of Colorado Boulder & Coursera: Basics of Inclusive Design for Online Education](https://www.coursera.org/learn/inclusive-design)
 - [University of Pittsburgh & Coursera: Disability Awareness and Support](https://www.coursera.org/learn/disability-awareness)
 - [Minnesota IT Services: Accessible Word Document Training](https://mn.gov/mnit/about-mnit/accessibility/training/)
-- [edX & W3C - Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/foundations-course/)
+- [edX & W3C - Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/foundations-course/) (Certificate available)
 - [edX & Georgia Tech - Information and Communication Technology (ICT) Accessibility](https://www.edx.org/course/information-and-communication-technology-ict-acces)
 - [Web.dev's Learn Accessibility](https://web.dev/learn/accessibility/)
 - [Accessibility MOOC](http://accessibility.mrooms.net/#a11y) - Inclusive Online Course Design LAST UPDATED 2018
