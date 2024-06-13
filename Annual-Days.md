@@ -7,11 +7,12 @@
 - April 11 - World Parkinson’s Day
 - **May is Healthy Vision Month**
 - **May is Blind Awareness Month**
+- **May is Arthritis Awareness Month**
 - May 20 2021 (3rd Thursday each May) - [Global Accessibility Awareness Day (GAAD)[(https://en.wikipedia.org/wiki/Global_Accessibility_Awareness_Day)
 - **June is Deaf-Blind Awareness Month**
 - June 20 - Nystagmus Awareness Day
 - **July is Eye Injury Prevention Month**
-- **August is August is Cataract Awareness**
+- **August is Cataract Awareness**
 - **September is National Guide Dog Month**
 - September 6 - International Color Blind Awareness Day
 - September 23  - International Day of Sign Languages (IDSL) 
@@ -19,6 +20,7 @@
 - October 6, 2020 - World Cerebral Palsy Day
 - October 16 - White Cane Day
 - October 8, 2020 (2nd Thursday of October) - World Sight Day (WSD)
+- October 29 - [World Psoriasis Day](https://ifpa-pso.com/world-psoriasis-day)
 - Dec 3 - International Day of Persons with Disabilities
 
 Also see - https://disabilityin.org/resource/2020-calendar-of-disability-related-dates/ 
