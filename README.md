@@ -56,30 +56,24 @@ Courses, webinars, educational videos, and more, offered in web accessibility. A
 
 
 ## Free
-- [Digital Accessibility as a Business Practice](https://de.ryerson.ca/wa/business/)
 - [Future Learn - Digital Accessibility: Enabling Participation in the Information Society](https://www.futurelearn.com/courses/digital-accessibility) - Not Running Now
 - [Future Learn - Create Accessible Interfaces](https://www.futurelearn.com/courses/create-accessible-interfaces)
 - [Google's Udacity Accessibility course (text version)](https://developers.google.com/web/fundamentals/accessibility/)
 - [Google's Udacity Web Accessibility - Developing with Empathy](https://www.udacity.com/course/web-accessibility--ud891)
 - [Microsoft's Training teachers to author accessible content ](https://education.microsoft.com/courses-and-resources/courses/training-teachers-to-author-accessible-content)
-- [Microsoft's Accessibility fundamentals]()https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/
-- [Professional Web #A11y Auditing Made Easy](https://de.ryerson.ca/wa/)
+- [Microsoft's Accessibility fundamentals](https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/)
 - [Start Building Accessible Web Applications Today, by Marcy Sutton](https://egghead.io/courses/start-building-accessible-web-applications-today)
-- [Ryerson University: Introduction to Web Accessibility](https://de.ryerson.ca/wa/introduction/) - Start date TBD 
-- [Teach Access](http://teachaccess.org/) Study Away Silicon Valley - In partnership with [PEAT](https://www.peatworks.org/)
+- [Ryerson University: Introduction to Web Accessibility](https://de.ryerson.ca/wa/introduction/) 
+- [Teach Access](https://teachaccess.org/) Study Away Silicon Valley - In partnership with [PEAT](https://www.peatworks.org/)
 - [Teach Access Tutorial](https://teachaccess.github.io/tutorial/)
 - [OpenU UK Accessibility of eLearning](https://www.open.edu/openlearn/education-development/education-careers/accessibility-elearning/content-section-0?active-tab=content-tab)
-- [Study Away Silicon Valley](http://teachaccess.org/studyaway/)
-- [UC Berkeley Intro to Course #Accessibility](http://bit.ly/coursea11y) - 6 modules on designing accessible content
 - [Open.edu: Assistive technologies and online learning](http://www.open.edu/openlearn/education-development/assistive-technologies-and-online-learning/content-section-0)
-- [Ryerson University & Canvas.net: Web Accessibility for Developers](https://www.canvas.net/browse/ryersonu/courses/adv-web-accessibility)
+- [Camvas.net & Buffalo State: Accessibility: Designing and Teaching Courses for All Learners (HE) ()](https://www.canvas.net/browse/empirestate/empirestate-buffalostate/courses/accessibility-designing-teaching)
 - [University of Colorado Boulder & Coursera: Basics of Inclusive Design for Online Education](https://www.coursera.org/learn/inclusive-design)
 - [University of Pittsburgh & Coursera: Disability Awareness and Support](https://www.coursera.org/learn/disability-awareness)
 - [Minnesota IT Services: Accessible Word Document Training](https://mn.gov/mnit/about-mnit/accessibility/training/)
 - [edX & W3C - Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/foundations-course/)
-- [edX & Georgia Tech - Information and Communication Technology (ICT) Accessibility](https://www.edx.org/course/information-and-communication-technology-ict-acces)
 - [Web.dev's Learn Accessibility](https://web.dev/learn/accessibility/)
-- [Accessibility MOOC](http://accessibility.mrooms.net/#a11y) - Inclusive Online Course Design LAST UPDATED 2018
 
 ## Webinars  
 - [3playmedia](http://www.3playmedia.com/resources/webinars/)
